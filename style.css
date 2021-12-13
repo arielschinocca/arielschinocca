@@ -119,10 +119,14 @@ nav ul li a:hover{
 }*/
 
 .footer{
-    background-color: var(--background--footer);
+    background-color: black;
     margin-top: 6rem;
     margin: 2rem 0;
     text-align: center;
     font-size: var(--md);
     font-weight: bold;
+    width: 100%;
+    top: 0;
 }
+
+
